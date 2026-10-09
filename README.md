@@ -10,12 +10,11 @@
 
 ## 👋 Sobre mí
 
-- 📍 Soy de **[tu zona, Buenos Aires]**
-- 🎓 Estudiando **[tu carrera / curso]**
-- 🌱 Ahora estoy aprendiendo **[lo que estás aprendiendo]**
-- 🚀 Mi objetivo: **[a qué te querés dedicar]**
-- 🎮 En mi tiempo libre: **[tus hobbies]**
-- 💬 Preguntame sobre: **[temas que manejás]**
+- 📍 Soy de **buenos aires**
+- 🎓 Estudiando **ptogramacion**
+- 🌱 Ahora estoy aprendiendo **ingenieria industrial**
+- 🎮 En mi tiempo libre: **juego a la compu**
+- 💬 Preguntame sobre: **nada**
 
 ---
 
